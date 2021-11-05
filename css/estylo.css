@@ -1,0 +1,70 @@
+/* logo inicio */
+nav img {
+    width: 130px;
+    margin-left: 5em;
+    }
+ 
+h3{
+    color: white;
+    font-size: 20pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;    
+   }
+/* logo fin */
+.navbar {
+    /* position:fixed ;  */
+   color: slategray !important; 
+   /* width: 100%; */
+      
+    } 
+
+   
+   
+    span{
+        border-bottom:1px dotted;
+    }
+
+/* footer */
+footer{
+    margin:15px ;
+    background-color: #17405a;
+    height: 90px; 
+    /* position: fixed; */
+    /* width: 100%; */
+    /* bottom: 0px;   */
+    }
+ 
+.nav-container ul li{
+    list-style: none;   
+    display: inline-block;
+    margin: 1rem 2rem;
+    }
+.nav-container ul li a{
+    display: block; 
+    color: white; 
+    text-decoration: none; 
+    }
+    /* fin footer */
+
+
+/* buenos aires */
+p.card-text{
+    font-size:small;
+    }
+
+/* Sobre q quieres hablar */
+label{
+   font-size:large; 
+   margin-left: 1rem;   
+   }
+
+p.col-6{
+    font-size: small;
+    }
+
+.btn-codo{
+    background-color:  #a5eb2c ;
+    color:white ;
+    width: 99% ;
+    margin: 1% ;
+}    
+
